@@ -157,7 +157,6 @@ return [
     */
 
     'providers' => ServiceProvider::defaultProviders()->merge([
-        UserServiceProvider::class,
         /*
          * Package Service Providers...
          */
