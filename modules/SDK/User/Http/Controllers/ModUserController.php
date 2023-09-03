@@ -8,6 +8,6 @@ class ModUserController extends Controller
 {
     public function index ()
     {
-        return view('user');
+        return view('User::mod_user');
     }
 }
